@@ -7,3 +7,7 @@
     -o-background-size: cover;
     background-size: cover;
   }
+
+.custom-logo{
+   height: 140px; 
+}  
